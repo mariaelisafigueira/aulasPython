@@ -1,2 +1,2 @@
 # aulasPython
-Aulas de Python Alura
+Aulas de Python 3
